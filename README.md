@@ -9,18 +9,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Prisma Zod 2</h3>
+  <h3 align="center">Zod Prisma 2</h3>
   <h4 align="center">Deep inspired by <a href="https://github.com/CarterGrimmeisen/zod-prisma">zod-prisma</a></h4>
   <br />
   <br />
   <p align="center">
     A custom prisma generator that creates Zod schemas from your Prisma model.
     <br />
-    <a href="https://github.com/adaosantos/prisma-zod2"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adaosantos/zod-prisma2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/adaosantos/prisma-zod2/issues">Report Bug</a>
+    <a href="https://github.com/adaosantos/zod-prisma2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/adaosantos/prisma-zod2/issues">Request Feature</a>
+    <a href="https://github.com/adaosantos/zod-prisma2/issues">Request Feature</a>
   </p>
 </p>
