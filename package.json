@@ -1,0 +1,40 @@
+{
+  "name": "zod-prisma2",
+  "version": "0.0.1",
+  "description": "A Prisma generator that creates Zod schemas for all of your models",
+  "license": "MIT",
+  "author": "Adão Santos",
+  "homepage": "https://github.com/adaosantos/zod-prisma2#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adaosantos/zod-prisma2.git"
+	},
+	"bugs": {
+		"url": "https://github.com/adaosantos/zod-prisma2/issues"
+	},
+	"main": "lib/main/index.js",
+  "typings": "lib/main/index.d.ts",
+  "module": "lib/module/index.js",
+	"keywords": [
+		"zod",
+		"prisma",
+		"generator"
+	],
+	"files": [
+    "lib/main",
+    "lib/module",
+    "!**/*.spec.*",
+    "!**/*.json",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@9.15.4"
+  
+}
